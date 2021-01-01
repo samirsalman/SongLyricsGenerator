@@ -39,7 +39,7 @@ Where:
 
 **Song Lyrics Generator** model is the following:
 
-![model](https://github.com/samirsalman/SongLyricsGenerator/blob/main/model.png)
+![model](https://github.com/samirsalman/SongLyricsGenerator/blob/main/model.PNG)
 
 
 Where embedding layer create the embedding of the input text, GRU is a type of RNN similar to LSTM but with fewer parameters, at the end the Output layer is a simple Dense Layer.
