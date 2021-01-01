@@ -11,7 +11,7 @@ Song Lyrics Generator
 ![star](https://img.pngio.com/small-star-3-200-x-200-making-the-webcom-black-star-small-png-200_200.png)
 
 ## Description
-Song Lyrics Generator is an RNN model, it is able to predict a song lyrics starting from a string input. A RNN model is a Deep Learning model, designed for Sequence-based tasks. 
+Song Lyrics Generator is an RNN model, it is able to predict a song lyrics starting from an input string. A RNN model is a Deep Learning model, designed for Sequence-based tasks. 
 The problem of generating the lyrics of a song from an input is modeled as predict next word multiple times, from the input to a fixed length text.
 
 ## Data
