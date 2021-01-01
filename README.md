@@ -1,5 +1,7 @@
 Song Lyrics Generator
 ======
+![stars](https://img.shields.io/github/stars/samirsalman?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/samirsalman/SongLyricsGenerator) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=7HWMJSGMCCTB6)
+
 ![logo](https://github.com/samirsalman/SongLyricsGenerator/blob/main/logo.png)
 
 **Song Lyrics Generator is Deep Learning model, particularly an RNN model, it is able to generate music lyrics starting from a string input.**
