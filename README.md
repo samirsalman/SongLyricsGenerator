@@ -4,7 +4,7 @@ Song Lyrics Generator
 
 ![logo](https://github.com/samirsalman/SongLyricsGenerator/blob/main/logo.png)
 
-**Song Lyrics Generator is Deep Learning model, particularly an RNN model, it is able to generate music lyrics starting from a string input.**
+**Song Lyrics Generator is a Deep Learning model, particularly an RNN model, it is able to generate music lyrics starting from a string input.**
 
 ### If you like the project, please give it a star. 
 
