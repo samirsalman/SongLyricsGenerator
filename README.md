@@ -92,6 +92,19 @@ Nobody but you, baby
 Yeah, yeah, niggas know what it goes (arejbosh 'Cause that's making some change sense Oh boy, ot can cut you down) (I still go, to you who and you'll
 ```
 
+## Use the model
+
+To use the model you must download "model" folder from this repository and then use this function to load the model:
+```
+from tensorflow import keras
+
+def get_trained_model(model_path): 
+  model = keras.models.load_model(model_path)
+  return model
+
+```
+**model_path is the path where you downloaded model folder**
+
 
 ## Kaggle Notebook
 * [Version 1.0](https://www.kaggle.com/samirsalman97/songlyrics)
