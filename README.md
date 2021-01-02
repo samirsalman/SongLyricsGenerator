@@ -98,7 +98,7 @@ Yeah, yeah, niggas know what it goes (arejbosh 'Cause that's making some change 
 ## Use the model
 
 To use the model you must download "model" folder from this repository and then use this function to load the model:
-```
+```python
 from tensorflow import keras
 
 def get_trained_model(model_path): 
